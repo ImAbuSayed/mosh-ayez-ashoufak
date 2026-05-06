@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-ayez-ashoufak/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Mosh Ayez Ashoufak](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
